@@ -6,3 +6,8 @@ Commit: git commit -m "<commit_message>"
 -Push: git Push
 Fetch repo metadata: git Fetch
 Pull: git Pull
+
+Ramas: 
+Las ramas nos permiten agregar commits de una manera 
+segura, sin alterar directamente la rama principal 
+(main.)
